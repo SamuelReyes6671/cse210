@@ -1,0 +1,15 @@
+/workspaces/cse210/Developer/bin/Debug/net7.0/Developer
+/workspaces/cse210/Developer/bin/Debug/net7.0/Developer.deps.json
+/workspaces/cse210/Developer/bin/Debug/net7.0/Developer.runtimeconfig.json
+/workspaces/cse210/Developer/bin/Debug/net7.0/Developer.dll
+/workspaces/cse210/Developer/bin/Debug/net7.0/Developer.pdb
+/workspaces/cse210/Developer/obj/Debug/net7.0/Developer.csproj.AssemblyReference.cache
+/workspaces/cse210/Developer/obj/Debug/net7.0/Developer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cse210/Developer/obj/Debug/net7.0/Developer.AssemblyInfoInputs.cache
+/workspaces/cse210/Developer/obj/Debug/net7.0/Developer.AssemblyInfo.cs
+/workspaces/cse210/Developer/obj/Debug/net7.0/Developer.csproj.CoreCompileInputs.cache
+/workspaces/cse210/Developer/obj/Debug/net7.0/Developer.dll
+/workspaces/cse210/Developer/obj/Debug/net7.0/refint/Developer.dll
+/workspaces/cse210/Developer/obj/Debug/net7.0/Developer.pdb
+/workspaces/cse210/Developer/obj/Debug/net7.0/Developer.genruntimeconfig.cache
+/workspaces/cse210/Developer/obj/Debug/net7.0/ref/Developer.dll
